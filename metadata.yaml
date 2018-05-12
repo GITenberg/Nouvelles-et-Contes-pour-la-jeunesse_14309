@@ -1,0 +1,32 @@
+_repo: Nouvelles-et-Contes-pour-la-jeunesse_14309
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Guizot, Madame (Elisabeth Charlotte Pauline)
+    aliases:
+    - Guizot, Élisabeth Charlotte Pauline de Meulan, Mme
+    - Guizot, Elisabeth Charlotte Pauline
+    - Guizot, Pauline
+    - Meulan, Pauline de
+    birthdate: 1773
+    deathdate: 1827
+    gutenberg_agent_id: '5463'
+    url: http://www.gutenberg.org/2009/agents/5463
+description: ''
+gutenberg_bookshelf: FR Contes
+gutenberg_issued: '2004-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14309'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, French'
+- !lcc 'PZ'
+title: Nouvelles et Contes pour la jeunesse
+url: http://www.gutenberg.org/ebooks/14309
