@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '5463'
     url: http://www.gutenberg.org/2009/agents/5463
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14309#Nouvelles-et-Contes-pour-la-jeunesse
 gutenberg_bookshelf: FR Contes
 gutenberg_issued: '2004-12-09'
 gutenberg_type: Text
